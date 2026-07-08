@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🍽️ Multi-Outlet Restaurant_Chain_Analysis
-# Sales & Customer Analytics System
+# Sales & Customer Analytics System (Internship)
 
 ![Python](https://img.shields.io/badge/Tool-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/Tool-SQL%20%7C%20PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
