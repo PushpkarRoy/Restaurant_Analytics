@@ -147,3 +147,4 @@ python scripts/pipeline.py
 *Built with 💙 by Pushpkar Roy · Raj Rathor · Ranjit Alawe*
 
 </div>
+<p align="center"> this is a paragraph</p>
