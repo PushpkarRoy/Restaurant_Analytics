@@ -147,3 +147,5 @@ python scripts/pipeline.py
 *Built with 💙 by Pushpkar Roy · Raj Rathor · Ranjit Alawe*
 
 </div>
+
+## Changes made by Raj Rathor
