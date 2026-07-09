@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🍽️ Multi-Outlet Restaurant_Chain_Analysis
-# Sales & Customer Analytics System (Internship)
+# 🍽️ Multi-Outlet Restaurant Chain
+# Sales & Customer Analytics System
 
 ![Python](https://img.shields.io/badge/Tool-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/Tool-SQL%20%7C%20PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -147,4 +147,3 @@ python scripts/pipeline.py
 *Built with 💙 by Pushpkar Roy · Raj Rathor · Ranjit Alawe*
 
 </div>
-<p align="center"> this is a paragraph</p>
