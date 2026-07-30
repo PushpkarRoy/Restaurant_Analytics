@@ -16,7 +16,7 @@
 </div>
     
 ## 📌 Project Overview       
-    
+         
 A comprehensive **Sales & Customer Analytics System** built for a multi-outlet restaurant chain operating **50+ outlets across 10 major cities**. The project transforms 390,000+ rows of raw transactional data into actionable business intelligence — covering revenue trends, customer behavior, menu performance, delivery efficiency, and outlet profitability.
 
 > **Data Window:** January 2022 – December 2024 · **Channels:** Dine-in, Takeaway, Online Delivery · **Tables:** 8 Relational Tables
