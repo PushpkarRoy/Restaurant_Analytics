@@ -22,7 +22,7 @@ A comprehensive **Sales & Customer Analytics System** built for a multi-outlet r
 > **Data Window:** January 2022 – December 2024 · **Channels:** Dine-in, Takeaway, Online Delivery · **Tables:** 8 Relational Tables
 
 ---
-
+     
 ## 👥 Team
 
 | # | Name | Role | Responsibility |
